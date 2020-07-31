@@ -1,5 +1,4 @@
-# SwiftUICustomView
-A demo for sharing custom views using LibraryContentProvider
+# A demo for sharing custom views using LibraryContentProvider
 
 WWDC 2020 introduced several new features and improvements in the entire spectrum of develpment in Apple ecosystem, and definitely every developer found lots of things to get excited with. One of those features regard Xcode 12 and SwiftUI, and we briefly met it in this previous post about what’s new in Xcode 12 and SwiftUI. It is the ability given to developers to create reusable SwiftUI views and modifiers, and add them as new items to Xcode’s library.
 
